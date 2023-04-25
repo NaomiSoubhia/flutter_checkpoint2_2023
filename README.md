@@ -1,16 +1,10 @@
 # checkpoint_naomi
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+https://www.canva.com/design/DAFhBv4x6Kc/vmxMzeHNHAqLJw2EBtF9sQ/edit?utm_content=DAFhBv4x6Kc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://dartpad.dev/?id=f4033a3fb06024fe6f99e84b78674e6e
